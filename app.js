@@ -37,7 +37,7 @@ form.addEventListener('submit', e => {
     })
 
     if (filteredArray.length > 0) {
-      msg.textContent = `Você já conhece o clima de ${filteredArray[0].querySelector(".city__name").textContent} ...seja mais específico fornecendo o código do país também 😉`;
+      msg.textContent = `Você já sabe o clima de ${filteredArray[0].querySelector(".city__name").textContent} `;
 
       msg.classList.add('visible')
 

@@ -8,4 +8,7 @@ desenvolvi um site que consome a API Weather para mostrar em tempo real a temper
 
 # Tecnologias 
 ### 
-- 
+- Html
+- JavaScript
+- Css
+- Vscode
